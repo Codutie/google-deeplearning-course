@@ -8,3 +8,6 @@ Repo containing notebooks and learning material of deep learning course offered 
 4.  Activate the environment ```source venv/bin/activate```
 5.  Install dependendcies ```pip install -r requirements.txt```
 6.  When you're done ```deactivate``` virtualenv
+
+# Content
+softmax playground [(notebook)](https://github.com/Codutie/google-deeplearning-course/blob/master/softmax_playground.ipynb)
