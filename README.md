@@ -11,3 +11,5 @@ Repo containing notebooks and learning material of deep learning course offered 
 
 # Content
 softmax playground [(notebook)](https://github.com/Codutie/google-deeplearning-course/blob/master/softmax_playground.ipynb)
+
+assignment_1 [notebook](https://github.com/Codutie/google-deeplearning-course/blob/master/deep_learning_1.ipynb)
